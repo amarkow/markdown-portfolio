@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. My Wife
+2. Food
+3. Sleep
+4. Books
+ - Sword of Truth
+ - Dune
+ - Chronicles of Narnia
