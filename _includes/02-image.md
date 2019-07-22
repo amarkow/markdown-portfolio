@@ -1,1 +1,1 @@
-![Life is Sacred](../richard_statue.jpg)
+![Life is Sacred](./richard_statue.jpg)
